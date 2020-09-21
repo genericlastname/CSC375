@@ -1,0 +1,7 @@
+You have probably been using gcc to compile your programs but this grows
+tedious and complicated as the number of files you need to compile increases.
+For this assignment, you will need to write a Makefile that compiles main.c,
+wc.c, and map.c when make is run (you may want to add the -g gcc flag to this
+step). It may also help to write a clean target (for make clean) to remove your
+binaries, but this is optional. If all of this is new to you please read 2.2
+make.
